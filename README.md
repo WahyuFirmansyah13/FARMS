@@ -44,7 +44,7 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
 
 1.  **Clone Repository**
     ```bash
-    git clone https://github.com/username/farms2.git
+    https://github.com/WahyuFirmansyah13/FARMS.git
     cd farms2
     ```
     > Ganti `username/farms2.git` dengan URL repositori Anda.
