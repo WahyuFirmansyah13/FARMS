@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">FARMS 2.0</h1>
+  <h1 align="center">FARMS </h1>
   <p align="center">
     <strong>Farming Activity & Reporting Management System</strong>
     <br />
